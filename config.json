@@ -3,31 +3,29 @@
     "1": {
       "brand": "LEMAX",
       "models": {
-        "default": "LEMAX",
-        "1": "ProPLUS"
+        "default": "ProPLUS"
       },
-      "logo": "/images/logo-lexmax.png",
+      "logo": "images/logo-lexmax.png",
       "link": "[lemax-kotel.ru](https://lemax-kotel.ru)",
       "support": "https://lemax-kotel.ru"
     },
     "2": {
       "brand": "TEKNIX",
       "models": {
-        "default": "TEKNIX",
-        "3": "YASNO"
+        "default": "ESPRO"
       },
-      "logo": "/images/logo-teknix.png",
+      "logo": "images/logo-teknix.png",
       "link": "[teknix.pro](https://teknix.pro)",
       "support": "https://teknix.pro/technical-support"
     },
     "4": {
       "brand": "TRIANCO",
       "models": {
-        "default": "AZTEC"
+        "default": "AZTEC SYSTEM"
       },
-      "logo": "",
-      "link": "",
-      "support": ""
+      "logo": "images/logo-trianco.png",
+      "link": "[trianco.co.uk](https://trianco.co.uk)",
+      "support": "https://trianco.co.uk/contact-us"
     }}
   }
 }
