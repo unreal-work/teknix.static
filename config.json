@@ -1,5 +1,14 @@
 {
   "devices": {
+    "default": {
+      "brand": "",
+      "models": {
+        "default": ""
+      },
+      "logo": "images/logo-universal.png",
+      "link": "",
+      "support": ""
+    },
     "1": {
       "brand": "LEMAX",
       "models": {
