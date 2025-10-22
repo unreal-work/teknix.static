@@ -27,6 +27,15 @@
       "link": "[teknix.pro](https://teknix.pro)",
       "support": "https://teknix.pro/technical-support"
     },
+    "3": {
+      "brand": "TRIANCO",
+      "models": {
+        "default": "AZTEC SYSTEM"
+      },
+      "logo": "images/logo-trianco.png",
+      "link": "[trianco.co.uk](https://trianco.co.uk)",
+      "support": "https://trianco.co.uk/contact-us"
+    },
     "4": {
       "brand": "TRIANCO",
       "models": {
