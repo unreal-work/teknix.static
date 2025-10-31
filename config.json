@@ -28,13 +28,13 @@
       "support": "https://teknix.pro/technical-support"
     },
     "3": {
-      "brand": "TRIANCO",
+      "brand": "TEKNIX",
       "models": {
-        "default": "AZTEC SYSTEM"
+        "default": "ESPRO"
       },
-      "logo": "images/logo-trianco.png",
-      "link": "[trianco.co.uk](https://trianco.co.uk)",
-      "support": "https://trianco.co.uk/contact-us"
+      "logo": "images/logo-teknix.png",
+      "link": "[teknix.pro](https://teknix.pro)",
+      "support": "https://teknix.pro/technical-support"
     },
     "4": {
       "brand": "TRIANCO",
